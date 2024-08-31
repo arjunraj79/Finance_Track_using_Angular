@@ -59,5 +59,5 @@ Push your changes to your fork and create a pull request.
 ## Contact
 If you have any questions or need further assistance, feel free to contact me:
 
-Name: Arjun Raj
+Name: Arjun Raj <br>
 Email: arjunraj2k3k@gmail.com
